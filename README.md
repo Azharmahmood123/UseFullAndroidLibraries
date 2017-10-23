@@ -13,3 +13,9 @@
 11. https://github.com/Yalantis/SearchFilter
 12. https://github.com/Yalantis/Side-Menu.Android
 13. https://github.com/Nightonke/BoomMenu
+14. https://github.com/ybq/Android-SpinKit
+15. https://github.com/dbof10/FBReaction
+16. https://github.com/amanjeetsingh150/UberCarAnimation
+17. https://github.com/mohak1712/UberUX
+18. https://github.com/nntuyen/mkloader
+19. https://github.com/Ramotion/folding-cell-android
