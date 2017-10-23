@@ -10,3 +10,6 @@
 8.  https://github.com/alexvasilkov/GestureViews
 9.  https://github.com/Yalantis/GuillotineMenu-Android
 10. https://github.com/ozodrukh/CircularReveal
+11. https://github.com/Yalantis/SearchFilter
+12. https://github.com/Yalantis/Side-Menu.Android
+13. https://github.com/Nightonke/BoomMenu
